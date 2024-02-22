@@ -1,11 +1,11 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-5a85a8a2-d9cf-4c16-bd78-5fc67e832b9e,Gbenga Olawepo-Hashim,2022-08-16T15:24:00.416Z,6e06780a-0462-4c24-a138-9d9c57827dc2,APT,Nigeria,ng,971769479677563,Gbenga Olawepo-Hashim,Facebook
-7ca7f428-e337-4a0c-88f9-02bb1a62092c,Oby Ezekwesili,2022-08-16T15:24:00.368Z,d7cd0dbb-7bda-4744-96ca-56961b40a7ef,IND,Nigeria,ng,2169553066652010,Oby Ezekwesili,Facebook
 a51429aa-2971-436c-8e35-9bfaed7c0d0a,Chike Ukaegbu,2022-08-16T15:24:00.323Z,41baf68a-ca8c-4fd8-8b69-4120ca0804ec,IND,Nigeria,ng,1912384972381370,Chike Ukaegbu,Facebook
-cc897f6f-ba38-4fb3-936c-7cdd35e84f82,Kingsley Moghalu,2022-08-16T15:24:00.409Z,520a6d94-c3ee-4498-9bc3-f43e9036f1db,IND,Nigeria,ng,459979587702719,Kingsley Moghalu,Facebook
-f467c5fd-4d08-4765-830e-016f31358beb,Rabiu Kwankwaso,2022-08-16T15:24:00.385Z,e389c5e5-63b6-4055-a726-b2d9ac351b46,IND,Nigeria,ng,399092736869879,Rabiu Kwankwaso,Facebook
-b5ee4cff-c28d-403a-93f6-63fd504e789d,Fela Durotoye,2022-08-16T15:24:00.343Z,fc8aa884-939f-4b23-8c28-a1add6e5d900,ANN,Nigeria,ng,47083793339,Fela Durotoye,Facebook
-2d1b092a-dc2f-4fe7-b223-603e649210f9,Muhammadu Buhari,2022-08-16T15:24:00.304Z,9d49d0e6-0fdf-4c8f-8c35-c37ec3d76825,APC,Nigeria,ng,1528952840718240,Muhammadu Buhari,Facebook
 4f26bf33-3267-499b-84ca-8610eea2503d,Donald Duke,2022-08-16T15:24:00.332Z,609fe7f5-8491-41c2-a6e1-b1309e9b0a41,SDP,Nigeria,ng,1537897366513960,Donald Duke,Facebook
-41b1de0a-febb-472e-9f34-9ba5d4e80488,Atiku Abubakar,2022-08-16T15:24:00.293Z,cf6bb9ac-695b-4fad-8da9-56f009adff69,PDP,Nigeria,ng,14312764639,Atiku Abubakar,Facebook
+b5ee4cff-c28d-403a-93f6-63fd504e789d,Fela Durotoye,2022-08-16T15:24:00.343Z,fc8aa884-939f-4b23-8c28-a1add6e5d900,ANN,Nigeria,ng,47083793339,Fela Durotoye,Facebook
+7ca7f428-e337-4a0c-88f9-02bb1a62092c,Oby Ezekwesili,2022-08-16T15:24:00.368Z,d7cd0dbb-7bda-4744-96ca-56961b40a7ef,IND,Nigeria,ng,2169553066652010,Oby Ezekwesili,Facebook
+f467c5fd-4d08-4765-830e-016f31358beb,Rabiu Kwankwaso,2022-08-16T15:24:00.385Z,e389c5e5-63b6-4055-a726-b2d9ac351b46,IND,Nigeria,ng,399092736869879,Rabiu Kwankwaso,Facebook
+2d1b092a-dc2f-4fe7-b223-603e649210f9,Muhammadu Buhari,2022-08-16T15:24:00.304Z,9d49d0e6-0fdf-4c8f-8c35-c37ec3d76825,APC,Nigeria,ng,1528952840718240,Muhammadu Buhari,Facebook
 dc3e9b9b-abcf-4000-8305-0d7f1085ab25,Tope Fasua,2022-08-16T15:24:00.373Z,898b0673-7a55-4249-972f-d87ff34addd0,ACP,Nigeria,ng,463056934159026,Tope Fasua,Facebook
+41b1de0a-febb-472e-9f34-9ba5d4e80488,Atiku Abubakar,2022-08-16T15:24:00.293Z,cf6bb9ac-695b-4fad-8da9-56f009adff69,PDP,Nigeria,ng,14312764639,Atiku Abubakar,Facebook
+5a85a8a2-d9cf-4c16-bd78-5fc67e832b9e,Gbenga Olawepo-Hashim,2022-08-16T15:24:00.416Z,6e06780a-0462-4c24-a138-9d9c57827dc2,APT,Nigeria,ng,971769479677563,Gbenga Olawepo-Hashim,Facebook
+cc897f6f-ba38-4fb3-936c-7cdd35e84f82,Kingsley Moghalu,2022-08-16T15:24:00.409Z,520a6d94-c3ee-4498-9bc3-f43e9036f1db,IND,Nigeria,ng,459979587702719,Kingsley Moghalu,Facebook
